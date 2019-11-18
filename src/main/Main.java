@@ -1,7 +1,7 @@
 package main;
 
 public class Main {
-    //eps
+    //  eps
     public final static double EPS = 1e-9;
 
     public static void main(String[] args) {
